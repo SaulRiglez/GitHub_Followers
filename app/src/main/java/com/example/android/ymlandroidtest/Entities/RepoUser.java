@@ -1,5 +1,5 @@
 
-package com.example.android.ymlandroidtest.Entities;
+package com.example.android.ymlandroidtest.entities;
 
 import com.google.gson.annotations.Expose;
 import com.google.gson.annotations.SerializedName;

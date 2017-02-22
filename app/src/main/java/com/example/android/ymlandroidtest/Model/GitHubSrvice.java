@@ -1,7 +1,7 @@
-package com.example.android.ymlandroidtest.Model;
+package com.example.android.ymlandroidtest.model;
 
-import com.example.android.ymlandroidtest.Entities.Follower;
-import com.example.android.ymlandroidtest.Entities.RepoUser;
+import com.example.android.ymlandroidtest.entities.Follower;
+import com.example.android.ymlandroidtest.entities.RepoUser;
 
 import java.util.List;
 

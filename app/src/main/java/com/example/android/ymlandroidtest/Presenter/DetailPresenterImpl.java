@@ -1,10 +1,8 @@
-package com.example.android.ymlandroidtest.Presenter;
+package com.example.android.ymlandroidtest.presenter;
 
-import android.util.Log;
-
-import com.example.android.ymlandroidtest.Entities.RepoUser;
-import com.example.android.ymlandroidtest.Utilities.RetrofitHelper;
-import com.example.android.ymlandroidtest.View.IDetailFollowerView;
+import com.example.android.ymlandroidtest.entities.RepoUser;
+import com.example.android.ymlandroidtest.utilities.RetrofitHelper;
+import com.example.android.ymlandroidtest.view.IDetailFollowerView;
 
 import rx.Observable;
 import rx.Observer;

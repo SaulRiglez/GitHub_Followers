@@ -1,30 +1,23 @@
 package com.example.android.ymlandroidtest;
 
-import android.app.SearchManager;
-import android.content.Context;
 import android.content.Intent;
-import android.support.v4.view.MenuItemCompat;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.support.v7.widget.DefaultItemAnimator;
 import android.support.v7.widget.GridLayoutManager;
 import android.support.v7.widget.RecyclerView;
 import android.support.v7.widget.SearchView;
-import android.transition.Fade;
-import android.transition.TransitionManager;
-import android.util.Log;
 import android.view.Menu;
 import android.view.MenuInflater;
-import android.view.MenuItem;
 import android.view.View;
 import android.view.ViewGroup;
 
-import com.example.android.ymlandroidtest.Utilities.FollowerAdapter;
-import com.example.android.ymlandroidtest.Entities.Follower;
-import com.example.android.ymlandroidtest.Presenter.IPresenterMainActivity;
-import com.example.android.ymlandroidtest.Presenter.MainActivityPresenterImpl;
-import com.example.android.ymlandroidtest.Utilities.OnItemClickListener;
-import com.example.android.ymlandroidtest.View.IMainFollowerView;
+import com.example.android.ymlandroidtest.utilities.FollowerAdapter;
+import com.example.android.ymlandroidtest.entities.Follower;
+import com.example.android.ymlandroidtest.presenter.IPresenterMainActivity;
+import com.example.android.ymlandroidtest.presenter.MainActivityPresenterImpl;
+import com.example.android.ymlandroidtest.utilities.OnItemClickListener;
+import com.example.android.ymlandroidtest.view.IMainFollowerView;
 
 
 import java.util.List;

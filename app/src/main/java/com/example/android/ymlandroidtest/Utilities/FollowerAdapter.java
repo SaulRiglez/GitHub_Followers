@@ -1,4 +1,4 @@
-package com.example.android.ymlandroidtest.Utilities;
+package com.example.android.ymlandroidtest.utilities;
 
         import android.content.Context;
         import android.support.v7.widget.RecyclerView;
@@ -8,7 +8,7 @@ package com.example.android.ymlandroidtest.Utilities;
         import android.widget.ImageView;
         import android.widget.TextView;
 
-        import com.example.android.ymlandroidtest.Entities.Follower;
+        import com.example.android.ymlandroidtest.entities.Follower;
         import com.example.android.ymlandroidtest.R;
         import com.squareup.picasso.Callback;
         import com.squareup.picasso.Picasso;

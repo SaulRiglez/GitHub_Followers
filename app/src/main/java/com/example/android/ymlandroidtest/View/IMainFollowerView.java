@@ -1,6 +1,6 @@
-package com.example.android.ymlandroidtest.View;
+package com.example.android.ymlandroidtest.view;
 
-import com.example.android.ymlandroidtest.Entities.Follower;
+import com.example.android.ymlandroidtest.entities.Follower;
 
 import java.util.List;
 

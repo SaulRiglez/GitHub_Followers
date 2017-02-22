@@ -1,4 +1,4 @@
-package com.example.android.ymlandroidtest.Utilities;
+package com.example.android.ymlandroidtest.utilities;
 
 import android.graphics.Bitmap;
 import android.graphics.BitmapShader;

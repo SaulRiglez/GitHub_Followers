@@ -1,6 +1,6 @@
-package com.example.android.ymlandroidtest.Presenter;
+package com.example.android.ymlandroidtest.presenter;
 
-import com.example.android.ymlandroidtest.Entities.Follower;
+import com.example.android.ymlandroidtest.entities.Follower;
 
 /**
  * Created by User on 2/20/2017.

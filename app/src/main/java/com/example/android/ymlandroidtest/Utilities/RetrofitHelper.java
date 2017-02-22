@@ -1,8 +1,8 @@
-package com.example.android.ymlandroidtest.Utilities;
+package com.example.android.ymlandroidtest.utilities;
 
-import com.example.android.ymlandroidtest.Entities.Follower;
-import com.example.android.ymlandroidtest.Entities.RepoUser;
-import com.example.android.ymlandroidtest.Model.GitHubSrvice;
+import com.example.android.ymlandroidtest.entities.Follower;
+import com.example.android.ymlandroidtest.entities.RepoUser;
+import com.example.android.ymlandroidtest.model.GitHubSrvice;
 
 import java.util.List;
 

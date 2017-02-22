@@ -1,6 +1,5 @@
 package com.example.android.ymlandroidtest;
 
-import android.graphics.Color;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.util.Log;
@@ -9,11 +8,11 @@ import android.widget.ImageView;
 import android.widget.LinearLayout;
 import android.widget.TextView;
 
-import com.example.android.ymlandroidtest.Entities.RepoUser;
-import com.example.android.ymlandroidtest.Presenter.DetailPresenterImpl;
-import com.example.android.ymlandroidtest.Presenter.IDetailActivityPresenter;
-import com.example.android.ymlandroidtest.Utilities.ShapeTransformation;
-import com.example.android.ymlandroidtest.View.IDetailFollowerView;
+import com.example.android.ymlandroidtest.entities.RepoUser;
+import com.example.android.ymlandroidtest.presenter.DetailPresenterImpl;
+import com.example.android.ymlandroidtest.presenter.IDetailActivityPresenter;
+import com.example.android.ymlandroidtest.utilities.ShapeTransformation;
+import com.example.android.ymlandroidtest.view.IDetailFollowerView;
 import com.squareup.picasso.Picasso;
 
 import butterknife.BindView;

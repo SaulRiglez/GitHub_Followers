@@ -1,4 +1,4 @@
-package com.example.android.ymlandroidtest.Utilities;
+package com.example.android.ymlandroidtest.utilities;
 
 import android.view.View;
 

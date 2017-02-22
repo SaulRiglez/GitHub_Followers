@@ -1,6 +1,6 @@
-package com.example.android.ymlandroidtest.View;
+package com.example.android.ymlandroidtest.view;
 
-import com.example.android.ymlandroidtest.Entities.RepoUser;
+import com.example.android.ymlandroidtest.entities.RepoUser;
 
 /**
  * Created by User on 2/20/2017.

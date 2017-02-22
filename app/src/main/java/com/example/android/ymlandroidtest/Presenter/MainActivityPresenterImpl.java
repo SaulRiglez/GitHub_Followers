@@ -1,10 +1,8 @@
-package com.example.android.ymlandroidtest.Presenter;
+package com.example.android.ymlandroidtest.presenter;
 
-import android.util.Log;
-
-import com.example.android.ymlandroidtest.Entities.Follower;
-import com.example.android.ymlandroidtest.Utilities.RetrofitHelper;
-import com.example.android.ymlandroidtest.View.IMainFollowerView;
+import com.example.android.ymlandroidtest.entities.Follower;
+import com.example.android.ymlandroidtest.utilities.RetrofitHelper;
+import com.example.android.ymlandroidtest.view.IMainFollowerView;
 
 import java.util.List;
 
